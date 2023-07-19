@@ -1,0 +1,7 @@
+build
+node_modules
+*.zkey
+*.ptau
+*.sol
+*_js
+*.r1cs
